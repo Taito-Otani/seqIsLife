@@ -3,6 +3,14 @@ This Max for live device is type of MIDI effect device.
 The device can create midi note by using algorithm that called life game or cell automaton.
 If there are aliving cells in each steps, then it can make midi note.
 
+# DEMO
+
+On YouTube
+https://youtu.be/aAlAo-d3uQw
+
+On Twitter
+https://twitter.com/taito_otani/status/1356594364189794306
+
 # Usage
 
 1) Add below files to m4l search path.
@@ -19,6 +27,7 @@ If there are aliving cells in each steps, then it can make midi note.
     - Mouse Click Right or Center :: You can create Cell.
 
 5) Enjoy✌️
+
 
 ------------------------------------------
 Spacial Thanks  ㊗️
