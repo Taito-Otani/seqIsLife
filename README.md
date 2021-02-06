@@ -28,6 +28,10 @@ https://twitter.com/taito_otani/status/1356594364189794306
 
 5) Enjoy✌️
 
+NOTE,
+This Device made with P5M4L project.
+https://github.com/Taito-Otani/P5M4L
+
 
 ------------------------------------------
 Spacial Thanks  ㊗️
