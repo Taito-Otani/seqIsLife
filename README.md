@@ -32,6 +32,8 @@ NOTE,
 This Device made with P5M4L project.
 https://github.com/Taito-Otani/P5M4L
 
+If you like this project, please donete me
+https://www.paypal.com/paypalme/taitootani
 
 ------------------------------------------
 Spacial Thanks  ㊗️
@@ -43,4 +45,6 @@ https://github.com/signalcompose
 ------------------------------------------
 Taito Otani. 
 http://taito-otani.com/
+
+
 
